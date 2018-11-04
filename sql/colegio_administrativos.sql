@@ -43,6 +43,7 @@ CREATE TABLE `administrativos` (
 --
 -- Dumping data for table `administrativos`
 --
+-- jkjghf
 
 LOCK TABLES `administrativos` WRITE;
 /*!40000 ALTER TABLE `administrativos` DISABLE KEYS */;

@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Simon_Bolivar.iml" filepath="$PROJECT_DIR$/Simon_Bolivar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nbbuild/generated/generated.iml" filepath="$PROJECT_DIR$/nbbuild/generated/generated.iml" />
     </modules>
   </component>
 </project>
